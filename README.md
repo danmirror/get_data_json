@@ -5,3 +5,4 @@
  - [x] php 
  - [x] jquery
  - [x] xml
+ - [x] ajax
