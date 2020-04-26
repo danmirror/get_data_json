@@ -6,3 +6,8 @@
  - [x] jquery
  - [x] xml
  - [x] ajax
+ 
+ <br>
+ 
+ ### author 
+ > <a href="https://me-danuandrean.github.io">me-danuandrean.github.io</a>
